@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Morbi condimentum egestas quam - 3M",
+            "discount": 18.90,
+            "price": 35.90,
+            "image": "product-1.png",
+            "size": "3m",
+            "color": "Misto",
+            "rating": 2
+        },
+        {
+            "id": 2,
+            "name": "Vivamus quam ex, ultricies et blandit sed",
+            "discount": 18.90,
+            "price": 35.90,
+            "image": "product-2.png",
+            "size": "3m",
+            "color": "Misto",
+            "rating": 1
+        },
+        {
+            "id": 3,
+            "name": "Morbi condimentum egestas quam - 3M",
+            "discount": 18.90,
+            "price": 35.90,
+            "image": "product-1.png",
+            "size": "3m",
+            "color": "Misto",
+            "rating": 5
+        },
+        {
+            "id": 4,
+            "name": "Vivamus quam ex, ultricies et blandit sed",
+            "discount": 18.90,
+            "price": 35.90,
+            "image": "product-2.png",
+            "size": "3m",
+            "color": "Misto",
+            "rating": 4
+        },
+        {
+            "id": 5,
+            "name": "Morbi condimentum egestas quam - 3M",
+            "discount": 18.90,
+            "price": 35.90,
+            "image": "product-1.png",
+            "size": "3m",
+            "color": "Misto",
+            "rating": 3
+        },
+        {
+            "id": 6,
+            "name": "Vivamus quam ex, ultricies et blandit sed",
+            "discount": 18.90,
+            "price": 35.90,
+            "image": "product-2.png",
+            "size": "3m",
+            "color": "Misto",
+            "rating": 5
+        }
+    ]
+}

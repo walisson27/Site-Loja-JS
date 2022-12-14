@@ -1,0 +1,89 @@
+body {
+    overflow-x: hidden !important;
+    @media(max-width: 769px) {
+        width: 100%;
+    }
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+button {
+    cursor: pointer;
+    transition: all .45s;
+    &.btn_primary {
+        background: var(--color--second);
+        padding: 5px 10px;
+        border: 0;
+        color: #fff;
+        text-decoration: none;
+        @media (max-width: 769px) {
+            padding: 15px 60px;
+            border-radius: 10px;
+            width: 100%;
+        }
+    }
+    &.btn_second {
+        background: var(--color--third);
+        padding: 15px 35px;
+        border: 0;
+        border-radius: 25px;
+        color: #fff;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+    &:hover {
+        background-color: #fff;
+        transition: all .45s;
+        transform: translateY(-10px);
+        border: 1px solid var(--color--third);
+        color: #000;
+    }
+    &.btn_checkout {
+        padding: 15px 80px;
+        border-radius: 10px;
+        border: 0;
+        background: #21ba44;
+        color: #fff;
+    }
+    &.btn_off_style {
+        background: transparent;
+        border: 0;
+    }
+}
+
+::-webkit-scrollbar {
+    width: 2px;
+    height: 2px;
+  }
+  ::-webkit-scrollbar-button {
+    width: 0px;
+    height: 0px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #e1e1e1;
+    border: 0px none #ffffff;
+    border-radius: 50px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #ffffff;
+  }
+  ::-webkit-scrollbar-thumb:active {
+    background: #000000;
+  }
+  ::-webkit-scrollbar-track {
+    background: #666666;
+    border: 0px none #ffffff;
+    border-radius: 50px;
+  }
+  ::-webkit-scrollbar-track:hover {
+    background: #666666;
+  }
+  ::-webkit-scrollbar-track:active {
+    background: #333333;
+  }
+  ::-webkit-scrollbar-corner {
+    background: transparent;
+  }
