@@ -1,5 +1,5 @@
 <h1 align="center">
-     Desafio-Site
+     Site
 </h1>
 <p align="center">
   <a href="https://singular-pony-6752d1.netlify.app/">Pagina do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -9,10 +9,10 @@
 :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-
 - Javascript
 - HTML5
 - CSS/SCSS
+- 
 <br>
 
 ## 💻 Instalação
