@@ -6,7 +6,7 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-## :rocket: Tecnologias
+:rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
