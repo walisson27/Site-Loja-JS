@@ -11,7 +11,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Javascript
 - HTML5
-- CSS/SCSS
+- SCSS
 
 <br>
 
